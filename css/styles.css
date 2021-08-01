@@ -1,0 +1,19 @@
+/* global */
+body {
+    height: 1000px;
+}
+
+footer {
+    height: 5%;
+    border: solid 1px grey;
+}
+/* index */
+.jumbotron {
+    height: 45%;
+}
+
+.about-box {
+    height: 30%;
+}
+
+
