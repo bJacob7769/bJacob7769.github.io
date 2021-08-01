@@ -24,3 +24,8 @@ footer {
 .pricing-box {
     height: 50%;
 }
+
+/* gallery */
+.carousel-image {
+    height: 40rem;
+}
