@@ -16,4 +16,11 @@ footer {
     height: 30%;
 }
 
+/* pricing-contact */
+.card-body {
+    height: 25rem;
+}
 
+.pricing-box {
+    height: 45%;
+}
