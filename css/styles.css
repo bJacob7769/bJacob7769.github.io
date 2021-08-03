@@ -49,7 +49,20 @@ footer {
 }
 
 .form-button {
-    background-color: #E3BAC6;
+    background-color: #FDE8E9;
+}
+
+.card {
+    background-color: #BC9EC1;
+}
+
+.card-title {
+    font-family: 'Viaoda Libre', cursive;
+}
+
+.form-text {
+    font-family: 'Viaoda Libre', cursive;
+    
 }
 
 
