@@ -1,6 +1,20 @@
 /* global */
 body {
     height: 1000px;
+    background-color: #C3DAC3;
+}
+
+/* navbar */
+.navbar {
+    background-color: #929487;
+}
+
+.navbar-toggler {
+    border: solid 1px;
+}
+
+.navbar-toggler:hover {
+    background-color: #D5ECD4;
 }
 
 footer {
@@ -33,3 +47,10 @@ footer {
 /* font families
 font-family: 'Vesper Libre', serif;
 font-family: 'Viaoda Libre', cursive; */
+
+/* colors
+color: #6B6054; umber
+color: #929487; artichoke
+color: #A1B0AB; ash gray
+color: #C3DAC3; cambridge blue
+color: #D5ECD4; nyanza */
