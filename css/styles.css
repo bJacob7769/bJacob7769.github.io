@@ -1,12 +1,12 @@
 /* global */
 body {
     height: 1000px;
-    background-color: #C3DAC3;
+    background-color: #E3BAC6;
 }
 
 /* navbar */
 .navbar {
-    background-color: #929487;
+    background-color: #7F8C9F;
 }
 
 .navbar-toggler {
@@ -14,7 +14,7 @@ body {
 }
 
 .navbar-toggler:hover {
-    background-color: #D5ECD4;
+    background-color: #FDE8E9;
 }
 
 footer {
