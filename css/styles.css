@@ -40,11 +40,15 @@ footer {
 
 /* pricing-contact */
 .card-body {
-    height: 20rem;
+    height: 22rem;
 }
 
 .pricing-box {
     height: 50%;
+}
+
+.form-button {
+    background-color: #E3BAC6;
 }
 
 
