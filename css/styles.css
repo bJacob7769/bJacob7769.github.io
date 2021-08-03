@@ -4,6 +4,14 @@ body {
     background-color: #E3BAC6;
 }
 
+* {
+    font-family: 'Vesper Libre', serif;
+}
+
+h1, h2 {
+    font-family: 'Viaoda Libre', cursive;
+}
+
 /* navbar */
 .navbar {
     background-color: #7F8C9F;
@@ -39,6 +47,8 @@ footer {
     height: 50%;
 }
 
+
+
 /* gallery */
 .carousel-image {
     height: 40rem;
@@ -47,10 +57,3 @@ footer {
 /* font families
 font-family: 'Vesper Libre', serif;
 font-family: 'Viaoda Libre', cursive; */
-
-/* colors
-color: #6B6054; umber
-color: #929487; artichoke
-color: #A1B0AB; ash gray
-color: #C3DAC3; cambridge blue
-color: #D5ECD4; nyanza */
