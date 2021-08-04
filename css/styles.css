@@ -37,6 +37,8 @@ footer {
     background-image: url(../images/salon-hero.jpg);
     background-size:cover;
     background-repeat: no-repeat;
+    color: #ebbab9;
+    text-shadow: -2px 2px 8px #407076;
 }
 
 .about-box {
