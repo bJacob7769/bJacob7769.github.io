@@ -61,7 +61,11 @@ footer {
 
 .pricing-box {
     height: 50%;
-    background-color: #BC9EC1;
+    background-color: #698996;
+}
+
+.pricing {
+    color: #FDE8E9;
 }
 
 .form-button {
@@ -69,7 +73,7 @@ footer {
 }
 
 .card {
-    background-color: #BC9EC1;
+    background-color: #698996;
 }
 
 .card-title {
