@@ -1,7 +1,7 @@
 /* global */
 body {
     height: 1000px;
-    background-color: #E3BAC6;
+    background-color: #ebbab9;
 }
 
 * {
@@ -14,7 +14,7 @@ h1, h2 {
 
 /* navbar */
 .navbar {
-    background-color: #7F8C9F;
+    background-color: #407076;
 }
 
 .navbar-toggler {
@@ -28,7 +28,7 @@ h1, h2 {
 footer {
     height: 5%;
     border: solid 1px grey;
-    background-color: #7F8C9F;
+    background-color: #407076;
 }
 
 /* index */
@@ -80,3 +80,10 @@ footer {
 /* font families
 font-family: 'Vesper Libre', serif;
 font-family: 'Viaoda Libre', cursive; */
+
+
+/* colors
+#698996 green
+#407076other green
+#ebbab9 pink 
+#c9c5ba beige*/
