@@ -30,9 +30,13 @@ footer {
     border: solid 1px grey;
     background-color: #7F8C9F;
 }
+
 /* index */
 .jumbotron {
-    height: 50%;
+    height: 75%;
+    background-image: url(../images/salon-hero.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
 }
 
 .about-box {
