@@ -64,6 +64,10 @@ footer {
     background-color: #698996;
 }
 
+.list-group-item {
+    background-color: inherit;
+}
+
 .pricing {
     color: #FDE8E9;
 }
