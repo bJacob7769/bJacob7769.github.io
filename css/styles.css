@@ -43,6 +43,15 @@ footer {
 
 .about-box {
     height: 30%;
+    background-color: #698996;
+}
+
+.about-anchor{
+    color: inherit;
+}
+
+.about-anchor:hover {
+    color: #ebbab9;
 }
 
 /* pricing-contact */
