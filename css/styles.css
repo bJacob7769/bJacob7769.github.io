@@ -44,6 +44,7 @@ footer {
 .about-box {
     height: 30%;
     background-color: #698996;
+    border-radius: 2rem;
 }
 
 .about-anchor{
@@ -62,6 +63,7 @@ footer {
 .pricing-box {
     height: 50%;
     background-color: #698996;
+    border-radius: 1rem;
 }
 
 .list-group-item {
@@ -94,6 +96,10 @@ footer {
 /* gallery */
 .carousel-image {
     height: 40rem;
+}
+
+.carousel-border {
+    border-radius: 1rem;
 }
 
 /* font families
